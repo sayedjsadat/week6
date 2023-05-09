@@ -1,0 +1,13 @@
+{
+  "name": "sayedsadat/328/week6",
+  "authors": [
+    {
+      "name": "Sayed Sadat",
+      "email": "sadat.sayed.3@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree": "dev-master"
+
+  }
+}
